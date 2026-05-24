@@ -12,9 +12,8 @@ KH정보교육원 Semi Project (2026.3.24 ~ 2026.4.22)
 (6) 회원 등급 구분(슈퍼 관리자, 관리자, 일반 유저)
 (7) 관리자 페이지 (회원 관리, 게시글 관리, 댓글 관리, 거래 현황)
 
+포트폴리오 PPT 주소(공개 보기 링크 전용): https://canva.link/keghmh1725gz40x
 
 Semi Project 원본 주소: https://github.com/lshlsh98/react_semi
 
-SEMI PROJECT의 PPT 주소(공개 보기 링크 전용): https://canva.link/hwzg2pnrnn5bkbu
-
-포트폴리오 PPT 주소(공개 보기 링크 전용): <<진행 중>>
+Semi Project의 PPT 주소(공개 보기 링크 전용): https://canva.link/hwzg2pnrnn5bkbu
